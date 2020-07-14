@@ -7,7 +7,7 @@
       "email": "michaelloremia@gmail.com",
       "phone": "+639992278926",
       "website": "",
-      "summary": "",
+      "summary": "My name is Michael, I've been working on web development since 2012. From creating simple pages in php to building rich web application used by clients and users from different parts of the world.",
       "location": {
         "address": "",
         "postalCode": "",
@@ -29,16 +29,16 @@
       "company": "Vlocity",
       "position": "Senior Frontend Developer",
       "website": "",
-      "startDate": "2019-09-00",
-      "endDate": "2020-07-00",
+      "startDate": "2019-09",
+      "endDate": "2020-07",
       "summary": "Develop and maintain vlocity hybrid mobile platform using AngularJS and Ionic 1",
       "highlights": []
     },{
       "company": "Boxchain",
       "position": "Lead Frontend Developer",
       "website": "",
-      "startDate": "2017-09-00",
-      "endDate": "2019-07-00",
+      "startDate": "2017-09",
+      "endDate": "2019-07",
       "summary": "Incharge of managing tasks, architecture and features lists for developers from web to android and IOS, along with collaborations with design team for product features and collaboration for overall product architecture.",
       "highlights": [
         "Created schema and parser for UI components consumed by web and mobile applicationg for generating rich UI."
@@ -47,8 +47,8 @@
       "company": "Agtech Labs, Inc",
       "position": "Senior Frontend Developer",
       "website": "",
-      "startDate": "2016-11-00",
-      "endDate": "2017-08-00",
+      "startDate": "2016-11",
+      "endDate": "2017-08",
       "summary": "Developed web app called Aginstinct. Implementing map based functionalities for farms using data visualization and google maps API",
       "highlights": [
         "Implemented map based visualizations based on on site data.",
@@ -58,8 +58,8 @@
       "company": "Extesoft, Inc",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2013-10-00",
-      "endDate": "2016-11-00",
+      "startDate": "2013-10",
+      "endDate": "2016-11",
       "summary": "Develop web apps and hybrid applications for clients.",
       "highlights": [
         "Started the move to angularJS from Backbone.js",
@@ -88,7 +88,13 @@
         "Javascript"
       ]
     }],
-    "languages": [],
+    "languages": [{
+      "language": "English",
+      "fluency": "Bilingual speaker"
+    },{
+      "language": "Tagalog",
+      "fluency": "Native speaker"
+    }],
     "interests": [],
     "references": []
   
