@@ -1,2 +1,0 @@
-# resume
-Online resume host
