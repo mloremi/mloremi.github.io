@@ -78,13 +78,7 @@
       "courses": []
     }],
     "awards": [],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "website": "http://publication.com",
-      "summary": "Description..."
-    }],
+    "publications": [],
     "skills": [{
       "name": "Web Development",
       "level": "Master",
