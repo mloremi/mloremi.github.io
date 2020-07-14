@@ -19,47 +19,65 @@
         "network": "LinkedIn",
         "username": "Michael Loremia",
         "url": "https://www.linkedin.com/in/michael-loremia-51b21173/"
+      }, {
+        "network": "Github",
+        "username": "mloremi",
+        "url": "https://github.com/mloremi"
       }]
     },
     "work": [{
-      "company": "Company",
-      "position": "President",
-      "website": "http://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description...",
+      "company": "Vlocity",
+      "position": "Senior Frontend Developer",
+      "website": "",
+      "startDate": "2019-09-00",
+      "endDate": "2020-07-00",
+      "summary": "Develop and maintain vlocity hybrid mobile platform using AngularJS and Ionic 1",
+      "highlights": []
+    },{
+      "company": "Boxchain",
+      "position": "Lead Frontend Developer",
+      "website": "",
+      "startDate": "2017-09-00",
+      "endDate": "2019-07-00",
+      "summary": "Incharge of managing tasks, architecture and features lists for developers from web to android and IOS, along with collaborations with design team for product features and collaboration for overall product architecture.",
       "highlights": [
-        "Started the company"
+        "Created schema and parser for UI components consumed by web and mobile applicationg for generating rich UI."
+      ]
+    },{
+      "company": "Agtech Labs, Inc",
+      "position": "Senior Frontend Developer",
+      "website": "",
+      "startDate": "2016-11-00",
+      "endDate": "2017-08-00",
+      "summary": "Developed web app called Aginstinct. Implementing map based functionalities for farms using data visualization and google maps API",
+      "highlights": [
+        "Implemented map based visualizations based on on site data.",
+        "Implemented interactive drawing to map out properties of farms."
+      ]
+    },{
+      "company": "Extesoft, Inc",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2013-10-00",
+      "endDate": "2016-11-00",
+      "summary": "Develop web apps and hybrid applications for clients.",
+      "highlights": [
+        "Started the move to angularJS from Backbone.js",
+        "Helped with Conceptualizing and refining features of apps for clients based on user needs and demands",
+        "Created radio streaming platform for mobile 'RCI radio' using angularJS and Ionic"
       ]
     }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "website": "http://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description...",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
+    "volunteer": [],
     "education": [{
-      "institution": "University",
-      "area": "Software Development",
+      "institution": "Bicol University",
+      "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
+      "startDate": "2018",
+      "endDate": "2012",
+      "gpa": "",
+      "courses": []
     }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
+    "awards": [],
     "publications": [{
       "name": "Publication",
       "publisher": "Company",
@@ -76,21 +94,9 @@
         "Javascript"
       ]
     }],
-    "languages": [{
-      "language": "English",
-      "fluency": "Native speaker"
-    }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference..."
-    }]
+    "languages": [],
+    "interests": [],
+    "references": []
   
   }
   
