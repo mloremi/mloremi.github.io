@@ -3,7 +3,6 @@
 }
 
 .App-body {
-  padding: 0 150px;
   display: block;
 }
 
@@ -26,7 +25,6 @@
   align-items: flex-start;
   justify-content: center;
   color: white;
-  padding: 0 150px;
 }
 
 .App-header * {
@@ -63,11 +61,21 @@
   background: url(./assets/LinkedIn.png);
 }
 
+.App-body, .App-header {
+  padding: 0 150px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media only screen and (max-device-width: 768px) {
+  .App-body, .App-header {
+    padding: 0 50px;
   }
 }
